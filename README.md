@@ -78,7 +78,6 @@ This project implements a spectral modularity-based community detection algorith
 
 The algorithm successfully:
 - Detected multiple communities in the Karate Club network
-- Tracked centrality evolution across 5+ split iterations
-- Identified consistently central nodes (hubs and bridges)
-- Validated against known historical split (Mr. Hi vs. Administrator factions)
+- Tracked centrality evolution across 15 split iterations
+
 
